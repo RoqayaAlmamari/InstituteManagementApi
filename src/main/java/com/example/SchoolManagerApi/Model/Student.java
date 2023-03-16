@@ -1,4 +1,4 @@
-package com.example.SchoolManager.Model;
+package com.example.SchoolManagerApi.Model;
 
 public class Student {
     private Long id;        // unique identifier for each student

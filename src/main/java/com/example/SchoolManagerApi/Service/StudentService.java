@@ -1,6 +1,6 @@
-package com.example.SchoolManager.Service;
+package com.example.SchoolManagerApi.Service;
 
-import com.example.SchoolManager.Model.Student;
+import com.example.SchoolManagerApi.Model.Student;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

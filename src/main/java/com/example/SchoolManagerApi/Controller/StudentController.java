@@ -1,7 +1,7 @@
-package com.example.SchoolManager.Controller;
+package com.example.SchoolManagerApi.Controller;
 
-import com.example.SchoolManager.Model.Student;
-import com.example.SchoolManager.Service.StudentService;
+import com.example.SchoolManagerApi.Model.Student;
+import com.example.SchoolManagerApi.Service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
