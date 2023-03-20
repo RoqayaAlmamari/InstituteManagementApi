@@ -1,13 +1,13 @@
-package com.example.SchoolManagerApi;
+package com.example.InstituteManagementApi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SchoolManagerApplicationApi {
+public class InstituteManagementApi {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SchoolManagerApplicationApi.class, args);
+		SpringApplication.run(InstituteManagementApi.class, args);
 	}
 
 }

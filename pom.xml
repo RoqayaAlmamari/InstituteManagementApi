@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>SchoolManagerApi</artifactId>
+	<artifactId>InstituateManagnmentApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SchoolManager</name>
 	<description>Demo project for Spring Boot</description>
@@ -27,6 +27,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.security</groupId>
+			<artifactId>spring-security-core</artifactId>
+			<version>5.5.0</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
